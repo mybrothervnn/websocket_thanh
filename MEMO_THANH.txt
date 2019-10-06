@@ -1,0 +1,12 @@
+CAC CHUC NANG CO THE PHAT TRIEN THEM: 
+1: Ðang ký, dang nh?p, logout
+2: thay avata
+3: chat riêng 
+4: Chuc nang hien thi lich su noi dung chat
+5: Chuc nang hien thi noi dung mutilmedia trong khung chat. 
+6: chuc nang gui file
+7: chuc nang gui contact
+8: chuc nang gui vi tri
+9: chuc nang sua tinnhan, xoa tin nhan. 
+
+...
