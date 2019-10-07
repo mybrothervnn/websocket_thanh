@@ -11,7 +11,7 @@
 	<groupId>com.thanh</groupId>
 	<artifactId>websocket_thanh</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>websocket_thanh</name>
 	<description>websocket_thanh</description>
 
